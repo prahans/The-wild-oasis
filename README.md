@@ -8,7 +8,47 @@ The Wild Oasis is a modern cabin booking and management application built with R
 
 ## 📸 Screenshots
 
-_Add screenshots of the application here._
+## 📸 Screenshots
+
+### Dashboard
+
+<table>
+  <tr>
+    <td><img src="./screenshots/dashboard.png" alt="Dashboard" width="100%"></td>
+    <td><img src="./screenshots/dashboard-dark.png" alt="Dashboard Dark Mode" width="100%"></td>
+  </tr>
+</table>
+
+### Bookings
+
+<table>
+  <tr>
+    <td><img src="./screenshots/bookings.png" alt="Bookings" width="100%"></td>
+    <td><img src="./screenshots/booking-details.png" alt="Booking Details" width="100%"></td>
+  </tr>
+</table>
+
+### Cabins
+
+<table>
+  <tr>
+    <td><img src="./screenshots/cabins.png" alt="Cabins" width="100%"></td>
+    <td><img src="./screenshots/cabin-form.png" alt="Cabin Form" width="100%"></td>
+  </tr>
+</table>
+
+### Other Screens
+
+<table>
+  <tr>
+    <td><img src="./screenshots/image-1.png" alt="Screenshot 1" width="100%"></td>
+    <td><img src="./screenshots/image-2.png" alt="Screenshot 2" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="./screenshots/image-3.png" alt="Screenshot 3" width="100%"></td>
+    <td><img src="./screenshots/image-4.png" alt="Screenshot 4" width="100%"></td>
+  </tr>
+</table>
 
 ## ✨ Features
 
