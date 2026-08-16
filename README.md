@@ -214,9 +214,8 @@ Some potential improvements include:
 
 **YOUR NAME**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Portfolio: [Your Portfolio](#)
-- LinkedIn: [Your LinkedIn](#)
+- GitHub: [@prahans](https://github.com/prahans)
+- LinkedIn: [https://www.linkedin.com/feed/](#)
 
 ## 📄 License
 
