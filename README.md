@@ -114,7 +114,7 @@ the-wild-oasis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/the-wild-oasis.git
+git clone https://github.com/prahans/the-wild-oasis.git
 ```
 
 ### 2. Navigate to the project
