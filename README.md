@@ -8,8 +8,6 @@ The Wild Oasis is a modern cabin booking and management application built with R
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Dashboard
 
 <table>
