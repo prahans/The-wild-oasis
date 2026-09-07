@@ -250,7 +250,12 @@ Some potential improvements include:
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**PRAHANS**
+
+## Hey you login using this gmail and password
+
+prahans@gmail.com
+pass143
 
 - GitHub: [@prahans](https://github.com/prahans)
 - LinkedIn: [https://www.linkedin.com/feed/](#)
