@@ -254,8 +254,8 @@ Some potential improvements include:
 
 ## Hey you login using this gmail and password
 
-prahans@gmail.com
-pass143
+-prahans@gmail.com
+-password
 
 - GitHub: [@prahans](https://github.com/prahans)
 - LinkedIn: [https://www.linkedin.com/feed/](#)
